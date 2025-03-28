@@ -2,7 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import TodoGlassmorphism from "/public/TodoGlassmorphism.png";
+import TodoGlassmorphism from "../../public/TodoGlassmorphism.png";
 import ultimateCookBook from "/public/ultimateCookBook.png";
 import travelAdvisor from "/public/travelAdvisor.png";
 
